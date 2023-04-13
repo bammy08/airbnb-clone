@@ -38,7 +38,6 @@ const Home = async ({ searchParams }: HomeProps) => {
             data={listing}
           />
         ))}
-        <div>My listings</div>
       </div>
     </Container>
   );
